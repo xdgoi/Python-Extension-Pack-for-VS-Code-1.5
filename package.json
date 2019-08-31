@@ -1,0 +1,20 @@
+{
+    "name": "Python-extensions",
+    "displayName": "Python extensions",
+    "description": "Python",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-python.python",
+        "magicstack.MagicPython",
+        "batisteo.vscode-django",
+        "wholroyd.jinja",
+        "cstrap.flask-snippets",
+        "KevinRose.vsc-python-indent"
+    ]
+}
