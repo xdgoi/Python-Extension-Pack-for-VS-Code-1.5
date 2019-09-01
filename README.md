@@ -74,6 +74,6 @@
 
 ##  Djaneiro
 
-**Code your djabgo program super quick!**
+**Code your django program super quick!**
 
 **Enjoy!**
