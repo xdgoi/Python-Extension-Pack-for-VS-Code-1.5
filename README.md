@@ -2,7 +2,7 @@
 
 ## This is my README for my extension pack
 
-**There are 11 extensions in this pack that I think are very useful for coding in python**
+**There are 17 extensions in this pack that I think are very useful for coding in python**
 
 ## Python extension
 
@@ -47,5 +47,33 @@
 ##  Pygame snippets
 
 **Makes Pygame programming simple!**
+
+##  Gitlens
+
+**Supercharge your experience in git with gitlens for vs code**
+
+##  Docstring
+
+**Generate your python docstrings quicker than ever!**
+
+##  Code runner
+
+**Run any programming language without installing an interpreter!**
+
+##  Annaconda extension pack
+
+**Make full use of annaconda with these handy extensions!**
+
+##  Trail spaces
+
+**Figure out where you need to tab!**
+
+##  Better comments
+
+**Color coordinate your comments!**
+
+##  Djaneiro
+
+**Code your djabgo program super quick!**
 
 **Enjoy!**
