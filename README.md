@@ -28,4 +28,24 @@
 
 **This program will get rid of the python indentation problem new developers face.**
 
+##  Jupyter notebooks
+
+**This program is great for developing plots etc. in python**
+
+##  Python test adapter
+
+**Allows you to test your python program super quick!**
+
+##  Github search similar code
+
+**Allows you to view other peoples work that's similar to yours.**
+
+##  Beeware
+
+**Help's you make python programms that are compatible across lots of devices**
+
+##  Pygame snippets
+
+**Makes Pygame programming simple!**
+
 **Enjoy!**
