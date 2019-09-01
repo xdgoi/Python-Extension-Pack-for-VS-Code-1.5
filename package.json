@@ -15,6 +15,11 @@
         "batisteo.vscode-django",
         "wholroyd.jinja",
         "cstrap.flask-snippets",
-        "KevinRose.vsc-python-indent"
+        "KevinRose.vsc-python-indent",
+        "donjayamanne.jupyter",
+        "LittleFoxTeam.vscode-python-test-adapter",
+        "BetaiAndMark.search-similar-code",
+        "BeeWare.beeware",
+        "tushortz.pygame-snippets"
     ]
 }
