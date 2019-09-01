@@ -20,6 +20,13 @@
         "LittleFoxTeam.vscode-python-test-adapter",
         "BetaiAndMark.search-similar-code",
         "BeeWare.beeware",
-        "tushortz.pygame-snippets"
+        "tushortz.pygame-snippets",
+        "eamodio.gitlens",
+        "njpwerner.autodocstring",
+        "formulahendry.code-runner",
+        "ms-python.anaconda-extension-pack",
+        "shardulm94.trailing-spaces",
+        "aaron-bond.better-comments",
+        "thebarkman.vscode-djaneiro"
     ]
 }
