@@ -2,7 +2,7 @@
 
 ## This is my README for my extension pack
 
-**There are 17 extensions in this pack that I think are very useful for coding in python**
+**There are 18 extensions in this pack that I think are very useful for coding in python**
 
 ## Python extension
 
