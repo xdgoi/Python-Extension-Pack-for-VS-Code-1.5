@@ -7,6 +7,7 @@
 ## Python extension
 
 **This extension was developed by Microsoft and is the main thing you'll need. It basically allows you to run python.**
+For Details see https://github.com/microsoft/vscode-python
 
 ##  MagicPython
 
