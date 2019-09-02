@@ -1,6 +1,6 @@
 # README
 
-## This is my README for my extension pack
+## This is my README for my Python Extension Pack for Visual Studio Code.
 
 **There are 18 extensions in this pack that I think are very useful for coding in python**
 
